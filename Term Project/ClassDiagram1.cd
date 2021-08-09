@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Term_Project.fmMain">
+    <Position X="0.5" Y="0.75" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>RACCAAAIACMQAAAABkCkgAgCBAoLAAABAAAKBBEAACg=</HashCode>
+      <FileName>fmMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Term_Project.Program" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Term_Project.Properties.Resources" Collapsed="true">
+    <Position X="13.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Term_Project.Properties.Settings" Collapsed="true">
+    <Position X="13.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Term_Project.fmPromptBonus">
+    <Position X="5.25" Y="0.75" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAABCAAAAIAIAAAAAACAQAACAgAICAAAEAAgAAAiAIA=</HashCode>
+      <FileName>fmPromptBonus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Term_Project.fmPromptHours">
+    <Position X="9.75" Y="0.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>gAABCAAAAAAQABAAAACAAAACAAAACAAAAAAgAAAiQJA=</HashCode>
+      <FileName>fmPromptHours.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Term_Project.Employee">
+    <Position X="8.25" Y="10.25" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AQACCEAACAIAAAAAAAAAAAAAAAAACAACCQgAAAAAAIg=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Term_Project.EmployeeAdjunct">
+    <Position X="15.5" Y="15" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AQQAAAAAAAiAAAAEAAEBAAAAAAAAAAAAAAAAAAQCIAA=</HashCode>
+      <FileName>EmployeeAdjunct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Term_Project.Department">
+    <Position X="15.75" Y="4.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAGAIIAAAQAgAAAAAEAIIAAAAgAAAA=</HashCode>
+      <FileName>Department.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Term_Project.EmployeeBonus">
+    <Position X="5.5" Y="15.25" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAJAAAEAQAAAQAAAgAAQAEAAAAAAAAAAAA=</HashCode>
+      <FileName>EmployeeBonus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Term_Project.EmployeeHourly">
+    <Position X="0.75" Y="15.25" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AQEAAAAAASAQCAAEAAAAAAAAAAAAAAAAAAAAABAAUAA=</HashCode>
+      <FileName>EmployeeHourly.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Term_Project.EmployeeProfessor">
+    <Position X="10.75" Y="15.25" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAABAAAEAAAAAQAAAAAAQAEAAAAAAAAAAAA=</HashCode>
+      <FileName>EmployeeProfessor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
